@@ -1,0 +1,17 @@
+Task 2: Frontend Integration with React
+● Objective: Build a React frontend to interact with the attendance API.
+
+● Topics:
+
+● React
+● React Router
+● User authentication (JWT, session-based)
+● UI design
+
+● Work:
+
+● Set up React project.
+● Design and implement calendar view for marking attendance. (For Calendar,a package can be used)
+● Develop features for viewing and editing attendance records.
+● Implement user authentication for portal access.
+● Utilize React Router for navigation
